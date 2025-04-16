@@ -1,4 +1,8 @@
 ## VentiStudios
+
+![我推天下第一！](https://github.com/user-attachments/assets/d4fc7d8d-c4e0-4c3a-84f1-6d0ab0f8aac7)
+
+
 制作和研究 Minecraft 相关的:
 - Mod
 - 服务端插件
