@@ -1,8 +1,14 @@
 ## Cecilia Studio
 
+[![](https://img.shields.io/badge/QQ_群聊-965051678-blue)](https://qm.qq.com/q/naq1YNlJqo)
+[![](https://img.shields.io/badge/https://-ceciliastudio.top-cyan)](https://ceciliastudio.top)
+[![](https://img.shields.io/github/followers/CeciliaStudio)](https://github.com/orgs/CeciliaStudio/followers)
+
 ### 简介
 
-致力于 Minecraft 相关内容的开发与研究。<br>
-无论是模组、启动器，还是服务端与客户端的重制，这里应有尽有。<br>
-如有意加入，欢迎通过邮箱 `ceciliastudios@icloud.com` 或在 Discussion 版块留言联系。<br>
-~~啊没错又是 AI 生成的（~~
+这是一个专注于 Minecraft 相关内容的开发与探索的组织。<br>
+无论是模组、启动器，还是服务端与客户端的重制，这里应有尽有！<br>
+
+目前只有 @AnemoFlower 一人，如果您和我们有相同的兴趣，欢迎联系 `ceciliastudios@icloud.com` 加入！<br>
+
+~~这次不是 AI 写的了~~
